@@ -1,0 +1,378 @@
+ComboFix 12-06-01.02 - user 01/06/2012  11:47:42.2.4 - x64
+Microsoft Windows 7 Ultimate   6.1.7600.0.1252.55.1046.18.3767.2852 [GMT -3:00]
+Executando de: c:\users\user\Downloads\ComboFix.exe
+SP: Windows Defender *Enabled/Outdated* {D68DDC3A-831F-4fae-9E44-DA132C1ACF46}
+ * Criado um novo ponto de restauração
+.
+[i] ADS - drivers: deleted 212 bytes in 1 streams. [/i]
+.
+((((((((((((((((   Arquivos/Ficheiros criados de 2012-05-01 to 2012-06-01  ))))))))))))))))))))))))))))
+.
+.
+2012-06-01 14:50 . 2012-06-01 14:50	--------	d-----w-	c:\users\Default\AppData\Local\temp
+2012-06-01 14:33 . 2012-06-01 14:33	--------	d-----w-	c:\users\user\AppData\Local\ElevatedDiagnostics
+2012-05-24 21:31 . 2012-05-29 16:02	--------	d-----w-	c:\users\user\AppData\Roaming\Media Player Classic
+2012-05-23 16:27 . 2012-05-23 16:27	--------	d-----w-	c:\program files (x86)\WinSCP
+2012-05-23 16:27 . 2012-05-23 16:27	--------	d-----w-	c:\users\user\AppData\Roaming\OpenCandy
+2012-05-17 11:26 . 2012-05-17 11:25	214400	----a-w-	c:\windows\SysWow64\Snpropwp.dll
+2012-05-17 11:26 . 2012-05-17 11:25	206208	----a-w-	c:\windows\PLFSetI.exe
+2012-05-17 11:26 . 2012-05-17 11:26	--------	d-----w-	c:\program files (x86)\Video Web Camera
+2012-05-17 11:26 . 2009-12-16 18:13	113264	----a-w-	c:\windows\FixUVC.exe
+2012-05-16 16:07 . 2012-05-24 19:17	--------	d-----w-	c:\program files (x86)\NetPerSec
+2012-05-16 16:05 . 1997-07-14 20:42	314880	----a-w-	c:\windows\IsUninst.exe
+2012-05-16 16:05 . 2012-05-16 16:05	--------	d-----w-	c:\windows\_ISTMP1.DIR
+2012-05-16 11:49 . 2012-05-16 11:49	--------	d-----w-	c:\users\user\AppData\Roaming\Mikrotik
+2012-05-14 13:49 . 2012-03-29 19:40	47816	----a-w-	c:\windows\SysWow64\drivers\gbpkm.sys
+2012-05-14 13:49 . 2012-05-14 13:49	--------	d-----w-	c:\program files (x86)\GbPlugin
+2012-05-14 13:49 . 2012-05-14 13:49	--------	d-----w-	c:\programdata\GbPlugin
+2012-05-12 13:49 . 2012-05-12 13:49	8769696	----a-w-	c:\windows\SysWow64\FlashPlayerInstaller.exe
+2012-05-09 19:08 . 2012-05-09 19:08	--------	d-----w-	c:\windows\system32\Dell
+2012-05-09 19:08 . 2012-05-09 19:08	--------	d-----w-	c:\program files\Dell
+2012-05-09 13:35 . 2012-05-09 13:35	--------	d-----w-	c:\program files (x86)\Prolific
+2012-05-09 13:35 . 2007-07-31 22:04	90112	----a-w-	c:\windows\system32\drivers\ser2pl64.sys
+2012-05-09 13:35 . 2012-05-15 16:56	--------	d-----w-	c:\program files (x86)\Common Files\InstallShield
+2012-05-07 12:19 . 2012-05-07 12:19	--------	d-----w-	c:\program files (x86)\Microsoft Silverlight
+2012-05-07 12:03 . 2012-05-07 12:03	--------	d-----w-	c:\users\user\AppData\Local\Adobe
+2012-05-04 15:38 . 2012-05-04 15:38	--------	d-----w-	c:\users\user\AppData\Roaming\VitySoft
+2012-05-04 14:30 . 2012-05-04 14:30	--------	d-----w-	c:\program files\CCleaner
+2012-05-04 14:17 . 2012-05-04 14:17	--------	d-----w-	c:\windows\Sun
+2012-05-04 14:15 . 2012-05-04 14:15	--------	d-----w-	c:\program files (x86)\Common Files\Java
+2012-05-04 14:15 . 2012-05-04 14:14	476960	----a-w-	c:\windows\SysWow64\npdeployJava1.dll
+2012-05-04 14:15 . 2012-05-04 14:14	472864	----a-w-	c:\windows\SysWow64\deployJava1.dll
+2012-05-04 14:14 . 2012-05-14 13:48	--------	d-----w-	c:\program files (x86)\Java
+2012-05-04 13:41 . 2010-03-31 14:51	74240	----a-w-	c:\windows\system32\Spool\prtprocs\x64\HPM1210PP.dll
+2012-05-04 13:11 . 2012-05-04 13:17	--------	d-----w-	c:\users\user\AppData\Roaming\TeamViewer
+2012-05-04 12:59 . 2011-04-15 16:13	52224	----a-w-	c:\windows\system32\HPM1210SMs.dll
+2012-05-04 12:59 . 2010-03-31 14:52	1366016	----a-w-	c:\windows\system32\HPM1210SM.exe
+2012-05-04 12:59 . 2010-03-31 14:51	407040	----a-w-	c:\windows\system32\HPM1210LM.DLL
+2012-05-04 12:55 . 2012-05-04 12:55	--------	d-----w-	c:\program files\HP
+2012-05-04 12:55 . 2010-03-31 17:49	350720	----a-w-	c:\windows\system32\mvhlewsi.dll
+2012-05-04 12:54 . 2012-05-04 12:54	--------	d-----w-	c:\program files (x86)\Common Files\SWF Studio
+2012-05-04 12:53 . 2012-05-04 12:54	--------	d-----w-	C:\LJM1130_M1210_MFP_Full_Solution
+2012-05-04 12:11 . 2012-05-31 18:58	--------	d-----r-	c:\users\user\Dropbox
+2012-05-04 12:08 . 2012-06-01 14:53	--------	d-----w-	c:\users\user\AppData\Roaming\Dropbox
+2012-05-03 15:26 . 2012-05-03 15:26	--------	d-----w-	c:\users\user\AppData\Local\IsolatedStorage
+2012-05-03 15:07 . 2011-09-26 15:48	8704	----a-w-	c:\windows\SysWow64\snmptrap.exe
+2012-05-03 15:07 . 2012-05-03 15:07	--------	d-----w-	c:\program files (x86)\RADWIN
+2012-05-03 15:07 . 2012-05-17 11:26	--------	d--h--w-	c:\program files (x86)\InstallShield Installation Information
+2012-05-03 14:30 . 2009-11-25 15:47	99176	----a-w-	c:\windows\SysWow64\PresentationHostProxy.dll
+2012-05-03 14:30 . 2009-11-25 15:47	49472	----a-w-	c:\windows\SysWow64\netfxperf.dll
+2012-05-03 14:30 . 2009-11-25 15:47	48960	----a-w-	c:\windows\system32\netfxperf.dll
+2012-05-03 14:30 . 2009-11-25 15:47	297808	----a-w-	c:\windows\SysWow64\mscoree.dll
+2012-05-03 14:30 . 2009-11-25 15:47	295264	----a-w-	c:\windows\SysWow64\PresentationHost.exe
+2012-05-03 14:30 . 2009-11-25 15:47	1130824	----a-w-	c:\windows\SysWow64\dfshim.dll
+2012-05-03 14:30 . 2009-11-25 15:47	109912	----a-w-	c:\windows\system32\PresentationHostProxy.dll
+2012-05-03 14:30 . 2009-11-25 15:47	444752	----a-w-	c:\windows\system32\mscoree.dll
+2012-05-03 14:30 . 2009-11-25 15:47	320352	----a-w-	c:\windows\system32\PresentationHost.exe
+2012-05-03 14:30 . 2009-11-25 15:47	1942856	----a-w-	c:\windows\system32\dfshim.dll
+2012-05-03 14:10 . 2012-05-30 20:15	--------	d-----w-	c:\users\user\AppData\Roaming\Skype
+2012-05-03 14:10 . 2012-05-03 14:10	--------	d-----w-	c:\program files (x86)\Common Files\Skype
+2012-05-03 14:10 . 2012-05-03 14:10	--------	d-----r-	c:\program files (x86)\Skype
+2012-05-03 14:10 . 2012-05-03 14:10	--------	d-----w-	c:\programdata\Skype
+2012-05-03 14:07 . 2012-05-03 14:07	--------	d-----w-	c:\program files (x86)\TeamViewer
+2012-05-03 13:58 . 2012-05-03 13:58	--------	d-----w-	c:\users\user\AppData\Local\Mozilla
+2012-05-03 13:58 . 2012-05-03 13:58	--------	d-----w-	c:\program files (x86)\Mozilla Maintenance Service
+2012-05-03 13:55 . 2012-05-03 13:55	--------	d-----w-	c:\users\user\AppData\Local\Google
+2012-05-03 13:55 . 2012-05-03 13:55	--------	d-----w-	c:\users\user\AppData\Local\Deployment
+2012-05-03 13:55 . 2012-05-03 13:55	--------	d-----w-	c:\users\user\AppData\Local\Apps
+2012-05-03 13:49 . 2012-05-03 13:49	--------	d-----w-	c:\windows\system32\appmgmt
+2012-05-03 01:34 . 2010-07-06 03:10	406056	----a-w-	c:\windows\system32\drivers\k57nd60a.sys
+2012-05-03 01:33 . 2010-05-11 10:11	2229608	----a-w-	c:\windows\system32\drivers\athrx.sys
+2012-05-02 20:14 . 2012-05-02 20:14	--------	d-----w-	c:\users\user\AppData\Local\Ahead
+2012-05-02 14:55 . 2012-03-07 00:15	258520	----a-w-	c:\windows\system32\aswBoot.exe
+2012-05-02 14:54 . 2012-05-03 13:52	--------	d-----w-	c:\programdata\AVAST Software
+2012-05-02 14:54 . 2012-05-02 14:54	--------	d-----w-	c:\program files\AVAST Software
+.
+.
+.
+(((((((((((((((((((((((((((((((((((((   Relatório Find3M   ))))))))))))))))))))))))))))))))))))))))))))))))))))
+.
+2012-05-12 13:49 . 2012-05-02 14:40	70304	----a-w-	c:\windows\SysWow64\FlashPlayerCPLApp.cpl
+2012-05-12 13:49 . 2012-05-02 14:40	419488	----a-w-	c:\windows\SysWow64\FlashPlayerApp.exe
+2012-04-18 06:03 . 2012-05-02 14:53	8917360	----a-w-	c:\programdata\Microsoft\Windows Defender\Definition Updates\{FF176ECD-1D92-49CA-A43F-A8B577DB5162}\mpengine.dll
+.
+.
+(((((((((((((((((((((((((((((   SnapShot@2012-05-14_13.35.17   )))))))))))))))))))))))))))))))))))))))))
+.
++ 2009-07-14 00:21 . 2009-07-14 01:41	88064              c:\windows\system32\WpdMtpUS.dll
++ 2012-04-24 03:25 . 2012-05-28 11:04	21132              c:\windows\system32\wdi\ShutdownPerformanceDiagnostics_SystemData.bin
++ 2009-07-14 05:10 . 2012-05-31 13:09	27954              c:\windows\system32\wdi\BootPerformanceDiagnostics_SystemData.bin
+- 2009-07-14 05:30 . 2012-05-09 13:37	86016              c:\windows\system32\DriverStore\infpub.dat
++ 2009-07-14 05:30 . 2012-05-26 15:40	86016              c:\windows\system32\DriverStore\infpub.dat
++ 2009-07-14 00:06 . 2009-07-14 00:06	40448              c:\windows\system32\drivers\winusb.sys
++ 2012-04-23 06:20 . 2012-05-29 17:16	16384              c:\windows\system32\config\systemprofile\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+- 2012-04-23 06:20 . 2012-05-12 13:49	16384              c:\windows\system32\config\systemprofile\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+- 2012-04-23 06:20 . 2012-05-12 13:49	32768              c:\windows\system32\config\systemprofile\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
++ 2012-04-23 06:20 . 2012-05-29 17:16	32768              c:\windows\system32\config\systemprofile\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+- 2009-07-14 04:54 . 2012-05-12 13:49	16384              c:\windows\system32\config\systemprofile\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
++ 2009-07-14 04:54 . 2012-05-29 17:16	16384              c:\windows\system32\config\systemprofile\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
+- 2012-04-23 06:48 . 2012-05-14 13:09	16384              c:\windows\ServiceProfiles\LocalService\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
++ 2012-04-23 06:48 . 2012-06-01 14:03	16384              c:\windows\ServiceProfiles\LocalService\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+- 2012-04-23 06:48 . 2012-05-14 13:09	16384              c:\windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
++ 2012-04-23 06:48 . 2012-06-01 14:03	16384              c:\windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
++ 2012-05-16 16:05 . 2012-05-16 16:05	46080              c:\windows\_ISTMP1.DIR\ZDataI50.dll
++ 2012-05-16 16:05 . 2012-05-16 16:05	40448              c:\windows\_ISTMP1.DIR\_WUTL950.DLL
++ 2012-05-04 20:14 . 2012-05-30 20:24	5176              c:\windows\system32\wdi\ERCQueuedResolutions.dat
+- 2012-05-04 20:14 . 2012-05-14 13:11	5176              c:\windows\system32\wdi\ERCQueuedResolutions.dat
++ 2012-04-23 09:58 . 2012-05-31 13:09	6746              c:\windows\system32\wdi\{86432a0b-3c7d-4ddf-a89c-172faa90485d}\S-1-5-21-877940289-53195026-189771182-1000_UserData.bin
++ 2012-05-26 13:51 . 2012-05-26 13:51	9560              c:\windows\system32\NetworkList\Icons\{F38BB340-D0BC-4566-A618-0CCA50232A90}_48.bin
++ 2012-05-26 13:51 . 2012-05-26 13:51	4280              c:\windows\system32\NetworkList\Icons\{F38BB340-D0BC-4566-A618-0CCA50232A90}_32.bin
++ 2012-05-26 13:51 . 2012-05-26 13:51	2456              c:\windows\system32\NetworkList\Icons\{F38BB340-D0BC-4566-A618-0CCA50232A90}_24.bin
++ 2012-05-16 12:59 . 2012-05-16 12:59	9560              c:\windows\system32\NetworkList\Icons\{AAB6E00E-D396-439F-BCB1-87BAA796CBBC}_48.bin
++ 2012-05-16 12:59 . 2012-05-16 12:59	4280              c:\windows\system32\NetworkList\Icons\{AAB6E00E-D396-439F-BCB1-87BAA796CBBC}_32.bin
++ 2012-05-16 12:59 . 2012-05-16 12:59	2456              c:\windows\system32\NetworkList\Icons\{AAB6E00E-D396-439F-BCB1-87BAA796CBBC}_24.bin
++ 2012-05-28 20:24 . 2012-05-28 20:24	9560              c:\windows\system32\NetworkList\Icons\{8FE1CA3A-221C-4F10-A3BB-44FAC4634D5A}_48.bin
++ 2012-05-28 20:24 . 2012-05-28 20:24	4280              c:\windows\system32\NetworkList\Icons\{8FE1CA3A-221C-4F10-A3BB-44FAC4634D5A}_32.bin
++ 2012-05-28 20:24 . 2012-05-28 20:24	2456              c:\windows\system32\NetworkList\Icons\{8FE1CA3A-221C-4F10-A3BB-44FAC4634D5A}_24.bin
++ 2012-05-23 19:20 . 2012-05-23 19:20	9560              c:\windows\system32\NetworkList\Icons\{3C979B19-571D-4C99-BAB0-81D8A67C1A9E}_48.bin
++ 2012-05-23 19:20 . 2012-05-23 19:20	4280              c:\windows\system32\NetworkList\Icons\{3C979B19-571D-4C99-BAB0-81D8A67C1A9E}_32.bin
++ 2012-05-23 19:20 . 2012-05-23 19:20	2456              c:\windows\system32\NetworkList\Icons\{3C979B19-571D-4C99-BAB0-81D8A67C1A9E}_24.bin
++ 2012-05-21 20:29 . 2012-05-21 20:29	9560              c:\windows\system32\NetworkList\Icons\{1A4423B7-A626-4EE8-86C6-E0D67DC8F559}_48.bin
++ 2012-05-21 20:29 . 2012-05-21 20:29	4280              c:\windows\system32\NetworkList\Icons\{1A4423B7-A626-4EE8-86C6-E0D67DC8F559}_32.bin
++ 2012-05-21 20:29 . 2012-05-21 20:29	2456              c:\windows\system32\NetworkList\Icons\{1A4423B7-A626-4EE8-86C6-E0D67DC8F559}_24.bin
++ 2012-05-24 14:31 . 2012-05-24 14:31	9560              c:\windows\system32\NetworkList\Icons\{11BE1DDE-851E-4B22-AEB7-2F8D923BEFF2}_48.bin
++ 2012-05-24 14:31 . 2012-05-24 14:31	4280              c:\windows\system32\NetworkList\Icons\{11BE1DDE-851E-4B22-AEB7-2F8D923BEFF2}_32.bin
++ 2012-05-24 14:31 . 2012-05-24 14:31	2456              c:\windows\system32\NetworkList\Icons\{11BE1DDE-851E-4B22-AEB7-2F8D923BEFF2}_24.bin
+- 2012-05-14 13:33 . 2012-05-14 13:33	2048              c:\windows\ServiceProfiles\LocalService\AppData\Local\lastalive1.dat
++ 2012-06-01 14:51 . 2012-06-01 14:51	2048              c:\windows\ServiceProfiles\LocalService\AppData\Local\lastalive1.dat
+- 2012-05-14 13:33 . 2012-05-14 13:33	2048              c:\windows\ServiceProfiles\LocalService\AppData\Local\lastalive0.dat
++ 2012-06-01 14:51 . 2012-06-01 14:51	2048              c:\windows\ServiceProfiles\LocalService\AppData\Local\lastalive0.dat
++ 2009-07-14 00:21 . 2009-07-14 01:41	297984              c:\windows\system32\WpdMtp.dll
++ 2012-04-25 00:04 . 2012-06-01 13:27	143066              c:\windows\system32\wdi\SuspendPerformanceDiagnostics_SystemData_S4.bin
++ 2012-05-03 15:05 . 2012-05-30 15:19	202276              c:\windows\system32\wdi\SuspendPerformanceDiagnostics_SystemData_S3.bin
++ 2009-07-29 16:08 . 2012-05-31 13:05	705984              c:\windows\system32\prfh0416.dat
+- 2009-07-29 16:08 . 2012-05-14 13:17	705984              c:\windows\system32\prfh0416.dat
++ 2009-07-29 16:08 . 2012-05-31 13:05	146710              c:\windows\system32\prfc0416.dat
+- 2009-07-29 16:08 . 2012-05-14 13:17	146710              c:\windows\system32\prfc0416.dat
++ 2009-07-14 02:36 . 2012-05-31 13:05	654552              c:\windows\system32\perfh009.dat
+- 2009-07-14 02:36 . 2012-05-14 13:17	654552              c:\windows\system32\perfh009.dat
+- 2009-07-14 02:36 . 2012-05-14 13:17	121424              c:\windows\system32\perfc009.dat
++ 2009-07-14 02:36 . 2012-05-31 13:05	121424              c:\windows\system32\perfc009.dat
+- 2012-05-14 13:12 . 2012-05-14 13:12	416960              c:\windows\system32\FNTCACHE.DAT
++ 2012-05-31 13:00 . 2012-05-31 13:01	416960              c:\windows\system32\FNTCACHE.DAT
+- 2009-07-14 05:30 . 2012-05-09 13:37	143360              c:\windows\system32\DriverStore\infstrng.dat
++ 2009-07-14 05:30 . 2012-05-26 15:40	143360              c:\windows\system32\DriverStore\infstrng.dat
++ 2009-07-14 05:12 . 2012-05-15 19:13	245760              c:\windows\system32\config\systemprofile\AppData\Roaming\Microsoft\Windows\IETldCache\index.dat
+- 2009-07-14 05:12 . 2009-07-14 05:12	245760              c:\windows\system32\config\systemprofile\AppData\Roaming\Microsoft\Windows\IETldCache\index.dat
++ 2012-05-15 18:06 . 2012-05-15 18:06	245760              c:\windows\ServiceProfiles\LocalService\AppData\Roaming\Microsoft\Windows\IETldCache\index.dat
+- 2009-07-14 05:01 . 2012-05-14 13:32	401416              c:\windows\ServiceProfiles\LocalService\AppData\Local\FontCache-System.dat
++ 2009-07-14 05:01 . 2012-06-01 14:51	401416              c:\windows\ServiceProfiles\LocalService\AppData\Local\FontCache-System.dat
++ 2012-05-04 14:34 . 2012-06-01 14:51	781480              c:\windows\ServiceProfiles\LocalService\AppData\Local\FontCache-S-1-5-21-877940289-53195026-189771182-1000-12288.dat
++ 2012-05-14 13:48 . 2012-05-14 13:48	581120              c:\windows\Installer\e9f14.msi
++ 2012-05-23 11:07 . 2012-05-23 11:07	371272              c:\windows\Installer\{EE7257A2-39A2-4D2F-9DAC-F9F25B8AE1D8}\SkypeIcon.exe
+- 2012-05-03 14:10 . 2012-05-03 14:10	371272              c:\windows\Installer\{EE7257A2-39A2-4D2F-9DAC-F9F25B8AE1D8}\SkypeIcon.exe
+- 2009-07-14 02:34 . 2012-05-09 15:18	9699328              c:\windows\system32\SMI\Store\Machine\SCHEMA.DAT
++ 2009-07-14 02:34 . 2012-05-24 16:01	9699328              c:\windows\system32\SMI\Store\Machine\SCHEMA.DAT
++ 2009-07-14 00:22 . 2009-07-14 01:41	1195008              c:\windows\system32\drivers\UMDF\WpdMtpDr.dll
++ 2012-05-23 11:07 . 2012-05-23 11:07	19234816              c:\windows\Installer\309a502.msi
+.
+-- Snapshot resetado para data atual --
+.
+((((((((((((((((((((((((((   Pontos de Carregamento do Registro   )))))))))))))))))))))))))))))))))))))))
+.
+.
+*Nota* entradas vazias e legítimas por padrão não são apresentadas. 
+REGEDIT4
+.
+[HKEY_LOCAL_MACHINE\software\wow6432node\microsoft\windows\currentversion\explorer\shelliconoverlayidentifiers\DropboxExt1]
+@="{FB314ED9-A251-47B7-93E1-CDD82E34AF8B}"
+[HKEY_CLASSES_ROOT\CLSID\{FB314ED9-A251-47B7-93E1-CDD82E34AF8B}]
+2012-02-15 00:32	94208	----a-w-	c:\users\user\AppData\Roaming\Dropbox\bin\DropboxExt.14.dll
+.
+[HKEY_LOCAL_MACHINE\software\wow6432node\microsoft\windows\currentversion\explorer\shelliconoverlayidentifiers\DropboxExt2]
+@="{FB314EDA-A251-47B7-93E1-CDD82E34AF8B}"
+[HKEY_CLASSES_ROOT\CLSID\{FB314EDA-A251-47B7-93E1-CDD82E34AF8B}]
+2012-02-15 00:32	94208	----a-w-	c:\users\user\AppData\Roaming\Dropbox\bin\DropboxExt.14.dll
+.
+[HKEY_LOCAL_MACHINE\software\wow6432node\microsoft\windows\currentversion\explorer\shelliconoverlayidentifiers\DropboxExt3]
+@="{FB314EDB-A251-47B7-93E1-CDD82E34AF8B}"
+[HKEY_CLASSES_ROOT\CLSID\{FB314EDB-A251-47B7-93E1-CDD82E34AF8B}]
+2012-02-15 00:32	94208	----a-w-	c:\users\user\AppData\Roaming\Dropbox\bin\DropboxExt.14.dll
+.
+[HKEY_LOCAL_MACHINE\software\wow6432node\microsoft\windows\currentversion\explorer\shelliconoverlayidentifiers\DropboxExt4]
+@="{FB314EDC-A251-47B7-93E1-CDD82E34AF8B}"
+[HKEY_CLASSES_ROOT\CLSID\{FB314EDC-A251-47B7-93E1-CDD82E34AF8B}]
+2012-02-15 00:32	94208	----a-w-	c:\users\user\AppData\Roaming\Dropbox\bin\DropboxExt.14.dll
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Run]
+"Adobe ARM"="c:\program files (x86)\Common Files\Adobe\ARM\1.0\AdobeARM.exe" [2012-01-03 843712]
+"GrooveMonitor"="c:\program files (x86)\Microsoft Office\Office12\GrooveMonitor.exe" [2006-10-27 31016]
+"SunJavaUpdateSched"="c:\program files (x86)\Common Files\Java\Java Update\jusched.exe" [2012-01-18 254696]
+.
+c:\users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\
+Dropbox.lnk - c:\users\user\AppData\Roaming\Dropbox\bin\Dropbox.exe [2012-5-24 27112840]
+.
+[HKEY_LOCAL_MACHINE\software\microsoft\windows\currentversion\policies\system]
+"ConsentPromptBehaviorAdmin"= 0 (0x0)
+"ConsentPromptBehaviorUser"= 3 (0x3)
+"EnableLUA"= 0 (0x0)
+"EnableUIADesktopToggle"= 0 (0x0)
+"PromptOnSecureDesktop"= 0 (0x0)
+.
+[HKEY_LOCAL_MACHINE\software\microsoft\windows nt\currentversion\winlogon\notify\ GbPluginAbn]
+2012-03-29 19:40	621808	------w-	c:\program files (x86)\GbPlugin\gbiehabn.dll
+.
+[HKEY_LOCAL_MACHINE\software\wow6432node\microsoft\windows nt\currentversion\drivers32]
+"aux1"=wdmaud.drv
+.
+R2 clr_optimization_v4.0.30319_32;Microsoft .NET Framework NGEN v4.0.30319_X86;c:\windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe [2010-03-18 130384]
+R2 clr_optimization_v4.0.30319_64;Microsoft .NET Framework NGEN v4.0.30319_X64;c:\windows\Microsoft.NET\Framework64\v4.0.30319\mscorsvw.exe [2010-03-18 138576]
+R2 SkypeUpdate;Skype Updater;c:\program files (x86)\Skype\Updater\Updater.exe [2012-04-05 158856]
+R3 AdobeFlashPlayerUpdateSvc;Adobe Flash Player Update Service;c:\windows\SysWOW64\Macromed\Flash\FlashPlayerUpdateService.exe [2012-05-12 257696]
+R3 MozillaMaintenance;Mozilla Maintenance Service;c:\program files (x86)\Mozilla Maintenance Service\maintenanceservice.exe [2012-04-21 129976]
+R3 netr28ux;Driver para Vista do RT2870 USB Wireless LAN Card;c:\windows\system32\DRIVERS\netr28ux.sys [x]
+S1 vwififlt;Virtual WiFi Filter Driver;c:\windows\system32\DRIVERS\vwififlt.sys [x]
+S2 AdobeARMservice;Adobe Acrobat Update Service;c:\program files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe [2012-04-04 63928]
+S2 GbpSv;Gbp Service;c:\progra~2\GbPlugin\GbpSv.exe [2012-03-29 204232]
+S2 TeamViewer7;TeamViewer 7;c:\program files (x86)\TeamViewer\Version7\TeamViewer_Service.exe [2012-03-19 2666880]
+S3 HECIx64;Intel(R) Management Engine Interface;c:\windows\system32\DRIVERS\HECIx64.sys [x]
+S3 k57nd60a;Broadcom NetLink (TM) Gigabit Ethernet - NDIS 6.0;c:\windows\system32\DRIVERS\k57nd60a.sys [x]
+S3 vwifimp;Microsoft Virtual WiFi Miniport Service;c:\windows\system32\DRIVERS\vwifimp.sys [x]
+S3 WSDPrintDevice;Suporte de Impressão WSD via UMB;c:\windows\system32\DRIVERS\WSDPrint.sys [x]
+.
+.
+Conteúdo da pasta 'Tarefas Agendadas'
+.
+2012-06-01 c:\windows\Tasks\Adobe Flash Player Updater.job
+- c:\windows\SysWOW64\Macromed\Flash\FlashPlayerUpdateService.exe [2012-05-02 13:49]
+.
+2012-06-01 c:\windows\Tasks\GoogleUpdateTaskUserS-1-5-21-877940289-53195026-189771182-1000Core.job
+- c:\users\user\AppData\Local\Google\Update\GoogleUpdate.exe [2012-05-03 13:55]
+.
+2012-06-01 c:\windows\Tasks\GoogleUpdateTaskUserS-1-5-21-877940289-53195026-189771182-1000UA.job
+- c:\users\user\AppData\Local\Google\Update\GoogleUpdate.exe [2012-05-03 13:55]
+.
+.
+--------- x86-64 -----------
+.
+.
+[HKEY_LOCAL_MACHINE\software\microsoft\windows\currentversion\explorer\shelliconoverlayidentifiers\DropboxExt1]
+@="{FB314ED9-A251-47B7-93E1-CDD82E34AF8B}"
+[HKEY_CLASSES_ROOT\CLSID\{FB314ED9-A251-47B7-93E1-CDD82E34AF8B}]
+2012-02-15 00:32	97792	----a-w-	c:\users\user\AppData\Roaming\Dropbox\bin\DropboxExt64.14.dll
+.
+[HKEY_LOCAL_MACHINE\software\microsoft\windows\currentversion\explorer\shelliconoverlayidentifiers\DropboxExt2]
+@="{FB314EDA-A251-47B7-93E1-CDD82E34AF8B}"
+[HKEY_CLASSES_ROOT\CLSID\{FB314EDA-A251-47B7-93E1-CDD82E34AF8B}]
+2012-02-15 00:32	97792	----a-w-	c:\users\user\AppData\Roaming\Dropbox\bin\DropboxExt64.14.dll
+.
+[HKEY_LOCAL_MACHINE\software\microsoft\windows\currentversion\explorer\shelliconoverlayidentifiers\DropboxExt3]
+@="{FB314EDB-A251-47B7-93E1-CDD82E34AF8B}"
+[HKEY_CLASSES_ROOT\CLSID\{FB314EDB-A251-47B7-93E1-CDD82E34AF8B}]
+2012-02-15 00:32	97792	----a-w-	c:\users\user\AppData\Roaming\Dropbox\bin\DropboxExt64.14.dll
+.
+[HKEY_LOCAL_MACHINE\software\microsoft\windows\currentversion\explorer\shelliconoverlayidentifiers\DropboxExt4]
+@="{FB314EDC-A251-47B7-93E1-CDD82E34AF8B}"
+[HKEY_CLASSES_ROOT\CLSID\{FB314EDC-A251-47B7-93E1-CDD82E34AF8B}]
+2012-02-15 00:32	97792	----a-w-	c:\users\user\AppData\Roaming\Dropbox\bin\DropboxExt64.14.dll
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+"IgfxTray"="c:\windows\system32\igfxtray.exe" [2010-04-21 161304]
+"HotKeysCmds"="c:\windows\system32\hkcmd.exe" [2010-04-21 386584]
+"Persistence"="c:\windows\system32\igfxpers.exe" [2010-04-21 413208]
+"PLFSetI"="c:\windows\PLFSetI.exe" [2012-05-17 206208]
+.
+------- Scan Suplementar -------
+.
+uLocal Page = c:\windows\system32\blank.htm
+mLocal Page = c:\windows\SysWOW64\blank.htm
+uInternet Settings,ProxyServer = 10.189.254.254:8080
+IE: E&xportar para o Microsoft Excel - c:\progra~2\MICROS~1\Office12\EXCEL.EXE/3000
+Trusted Zone: realsecureweb.com.br\wwws
+Trusted Zone: santander.com.br\www
+Trusted Zone: santanderempresarial.com.br\www
+Trusted Zone: santandernet.com.br\www
+Trusted Zone: santandernet.com.br\wwws
+Trusted Zone: santandernetibe.com.br\www
+Trusted Zone: secureweb.com.br\www
+TCP: DhcpNameServer = 192.168.254.254
+FF - ProfilePath - c:\users\user\AppData\Roaming\Mozilla\Firefox\Profiles\7q8pbcnk.default\
+.
+.
+--------------------- CHAVES DO REGISTRO BLOQUEADAS ---------------------
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Wow6432Node\CLSID\{A483C63A-CDBC-426E-BF93-872502E8144E}]
+@Denied: (A 2) (Everyone)
+@="FlashBroker"
+"LocalizedString"="@c:\\Windows\\SysWOW64\\Macromed\\Flash\\FlashUtil32_11_2_202_235_ActiveX.exe,-101"
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Wow6432Node\CLSID\{A483C63A-CDBC-426E-BF93-872502E8144E}\Elevation]
+"Enabled"=dword:00000001
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Wow6432Node\CLSID\{A483C63A-CDBC-426E-BF93-872502E8144E}\LocalServer32]
+@="c:\\Windows\\SysWOW64\\Macromed\\Flash\\FlashUtil32_11_2_202_235_ActiveX.exe"
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Wow6432Node\CLSID\{A483C63A-CDBC-426E-BF93-872502E8144E}\TypeLib]
+@="{FAB3E735-69C7-453B-A446-B6823C6DF1C9}"
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}]
+@Denied: (A 2) (Everyone)
+@="Shockwave Flash Object"
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\InprocServer32]
+@="c:\\Windows\\SysWOW64\\Macromed\\Flash\\Flash32_11_2_202_235.ocx"
+"ThreadingModel"="Apartment"
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\MiscStatus]
+@="0"
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\ProgID]
+@="ShockwaveFlash.ShockwaveFlash.11"
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\ToolboxBitmap32]
+@="c:\\Windows\\SysWOW64\\Macromed\\Flash\\Flash32_11_2_202_235.ocx, 1"
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\TypeLib]
+@="{D27CDB6B-AE6D-11cf-96B8-444553540000}"
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\Version]
+@="1.0"
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\VersionIndependentProgID]
+@="ShockwaveFlash.ShockwaveFlash"
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Wow6432Node\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}]
+@Denied: (A 2) (Everyone)
+@="Macromedia Flash Factory Object"
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Wow6432Node\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}\InprocServer32]
+@="c:\\Windows\\SysWOW64\\Macromed\\Flash\\Flash32_11_2_202_235.ocx"
+"ThreadingModel"="Apartment"
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Wow6432Node\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}\ProgID]
+@="FlashFactory.FlashFactory.1"
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Wow6432Node\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}\ToolboxBitmap32]
+@="c:\\Windows\\SysWOW64\\Macromed\\Flash\\Flash32_11_2_202_235.ocx, 1"
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Wow6432Node\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}\TypeLib]
+@="{D27CDB6B-AE6D-11cf-96B8-444553540000}"
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Wow6432Node\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}\Version]
+@="1.0"
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Wow6432Node\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}\VersionIndependentProgID]
+@="FlashFactory.FlashFactory"
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Wow6432Node\Interface\{E3F2C3CB-5EB8-4A04-B22C-7E3B4B6AF30F}]
+@Denied: (A 2) (Everyone)
+@="IFlashBroker4"
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Wow6432Node\Interface\{E3F2C3CB-5EB8-4A04-B22C-7E3B4B6AF30F}\ProxyStubClsid32]
+@="{00020424-0000-0000-C000-000000000046}"
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Wow6432Node\Interface\{E3F2C3CB-5EB8-4A04-B22C-7E3B4B6AF30F}\TypeLib]
+@="{FAB3E735-69C7-453B-A446-B6823C6DF1C9}"
+"Version"="1.0"
+.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\PCW\Security]
+@Denied: (Full) (Everyone)
+.
+Tempo para conclusão: 2012-06-01  11:56:14 - Máquina reiniciou
+ComboFix-quarantined-files.txt  2012-06-01 14:56
+ComboFix2.txt  2012-05-14 13:38
+.
+Pré-execução: 248.622.395.392 bytes disponíveis
+Pós execução: 248.566.755.328 bytes disponíveis
+.
+- - End Of File - - BC4D40B41FD661CC3EE626EC19FC7E6C
